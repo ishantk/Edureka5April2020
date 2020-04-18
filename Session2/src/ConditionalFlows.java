@@ -1,4 +1,6 @@
-import java.util.Scanner;	// PS: Import Scanner which is a built in class in Java to read data on Cosnole from User
+package Session2.src;
+
+import java.util.Scanner; // PS: Import Scanner which is a built in class in Java to read data on Cosnole from User
 
 public class ConditionalFlows {
 

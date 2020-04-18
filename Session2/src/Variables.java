@@ -1,3 +1,5 @@
+package Session2.src;
+
 // class represents a java program for us as of now
 public class Variables {
 	

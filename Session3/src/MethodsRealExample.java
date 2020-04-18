@@ -1,3 +1,5 @@
+package Session3.src;
+
 import java.util.Scanner;
 
 public class MethodsRealExample {

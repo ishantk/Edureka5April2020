@@ -1,3 +1,5 @@
+package Session2.src;
+
 // PrimitiveDataTypes -> Stores Single Value :)
 
 public class PrimitiveDataTypes {
